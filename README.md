@@ -105,27 +105,27 @@
 ### 🎨 Color pallete
 
 <br>
-<div style="display:inline-block;padding-right:1.5rem">
+<div style="display:inline;padding-right:1.5rem">
   <img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=4c545d" style="border-radius: .5rem;" alt="#4c545d"/>
   <p>#4c545d</p>
 </div>
-<div style="display:inline-block;padding-right:1.5rem">
+<div style="display:inline;padding-right:1.5rem">
     <img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=9fabb2" style="border-radius: .5rem;" alt="#9fabb2"/>
     <p>#9fabb2</p>
 </div>
-<div style="display:inline-block;padding-right:1.5rem">
+<div style="display:inline;padding-right:1.5rem">
     <img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=1e9483" style="border-radius: .5rem;" alt="#1e9483"/>
     <p>#1e9483</p>
 </div>
-<div style="display:inline-block;padding-right:1.5rem">
+<div style="display:inline;padding-right:1.5rem">
     <img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=4d5ccc" style="border-radius: .5rem;" alt="#4d5ccc"/>
     <p>#4d5ccc</p>
 </div>
-<div style="display:inline-block;padding-right:1.5rem">
+<div style="display:inline;padding-right:1.5rem">
     <img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=26baa4" style="border-radius: .5rem;" alt="#26baa4"/>
     <p>#26baa4</p>
 </div>
-<div style="display:inline-block;padding-right:1.5rem">
+<div style="display:inline;padding-right:1.5rem">
     <img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=6173ff" style="border-radius: .5rem;" alt="#6173ff"/>
     <p>#6173ff</p>
 </div>
