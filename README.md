@@ -31,7 +31,7 @@
 </p>
    
 <h4 style="display: flex; justify-content: center; gap:.6rem">
-    <a href="https://github.com/rio-rifaldi/clipboard-landing-page/">View Demo 🚀</a>
+    <a href="https://rio-clipboard-landing-page.netlify.app">View site 🚀</a>
   <span> · </span>
     <a href="https://github.com/rio-rifaldi/clipboard-landing-page">Documentation 📕</a>
   <span> · </span>
