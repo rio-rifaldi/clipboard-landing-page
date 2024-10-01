@@ -1,0 +1,59 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+   <foreignObject width="80%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          flex-wrap: wrap;
+          width: 100%;
+          height: 300px;
+          background-color: transparent;
+          color: white;
+          place-items:center;
+          place-content:center;
+          gap:2rem;
+        }
+        #wrapper{
+          display: grid;
+          gap:.6rem;
+          place-content: center;
+          place-items: center;
+        }
+      </style>
+      <div class="container">
+            <div id="wrapper">
+                  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="border-radius: .5rem;" alt="javascript"/>
+                  <p style="text-transform:capitalize">Javascript</p>
+            </div>
+            <div id="wrapper">
+                <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="border-radius: .5rem;" alt="css"/>
+                <p style="text-transform:capitalize">css</p>
+          </div>
+            <div id="wrapper">
+                <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="border-radius: .5rem;" alt="html"/>
+                <p style="text-transform:capitalize">html</p>
+          </div>
+            <div id="wrapper">
+                <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="border-radius: .5rem;" alt="tailwindcss"/>
+                <p style="text-transform:capitalize">tailwindcss</p>
+          </div>
+            <div id="wrapper">
+                <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" style="border-radius: .5rem;" alt="vitejs"/>
+                <p style="text-transform:capitalize">vitejs</p>
+          </div>
+          <div id="wrapper">
+                <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" style="border-radius: .5rem;" alt="netlify"/>
+                <p style="text-transform:capitalize">netlify</p>
+          </div>
+          <div id="wrapper">
+                <img width="40px" src="https://www.cdnlogo.com/logos/g/31/gsap-greensock.svg" style="border-radius: .5rem;" alt="gsap"/>
+                <p style="text-transform:capitalize">gsap</p>
+          </div>
+          <div id="wrapper">
+                <img width="40px" src="https://www.cdnlogo.com/logos/v/82/visual-studio-code.svg" style="border-radius: .5rem;" alt="vscode"/>
+                <p style="text-transform:capitalize">vscode</p>
+          </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
