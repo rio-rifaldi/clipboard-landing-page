@@ -64,38 +64,30 @@
 <!-- language and tools -->
 ### 🧰 Language and tools
 <br><br>
-<div style="display:inline-block;padding-right:1.5rem;">
-    <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;text" alt="javascript"/>
-    <p>javascript</p>
-</div>
-<div style="display:inline-block;padding-right:1.5rem;text-align:center">
-    <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:10px;" alt="css"/>
-    <p>css</p>
-</div>
-<div style="display:inline-block;padding-right:1.5rem;text-align:center">
-    <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:10px;" alt="html"/>
-    <p>html</p>
-</div>
-<div style="display:inline-block;padding-right:1.5rem;text-align:center">
-    <img align="left" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" alt="tailwindcss"/>
-    <p>tailwindcss</p>
-</div>
-<div style="display:inline-block;padding-right:1.5rem">
-    <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" style="padding-right:10px;" alt="vitejs"/>
-    <p>vitejs</p>
-</div>
-<div style="display:inline-block;padding-right:1.5rem">
-    <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" style="padding-right:10px;" alt="netlify"/>
-    <p>netlify</p>
-</div>
-<div style="display:inline-block;padding-right:1.5rem">
-    <img align="left" width="40px" src="https://www.cdnlogo.com/logos/g/31/gsap-greensock.svg" style="padding-right:10px;" alt="gsap"/>
-    <p>gsap</p>
-</div>
-<div style="display:inline-block;padding-right:1.5rem">
-    <img align="left" width="40px" src="https://www.cdnlogo.com/logos/v/82/visual-studio-code.svg" style="padding-right:10px;" alt="vscode"/>
-    <p>vscode</p>
-</div>
+<a target="blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+   <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:2rem;text" alt="javascript"/>
+</a>
+<a target="blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+   <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:2rem;" alt="css"/>
+</a>
+<a target="blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+   <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:2rem;" alt="html"/>
+</a>
+<a target="blank" href="https://tailwindcss.com/">
+   <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:2rem;" alt="tailwindcss"/>
+</a>
+<a target="blank" href="https://vitejs.dev/">
+   <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" style="padding-right:2rem;" alt="vitejs"/>
+</a>
+<a target="blank" href="https://www.netlify.com/">
+   <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" style="padding-right:2rem;" alt="netlify"/>
+</a>
+<a target="blank" href="https://gsap.com/">
+   <img align="left" width="40px" src="https://www.cdnlogo.com/logos/g/31/gsap-greensock.svg" style="padding-right:2rem;" alt="gsap"/>
+</a>
+<a target="blank" href="https://code.visualstudio.com/">
+   <img align="left" width="40px" src="https://www.cdnlogo.com/logos/v/82/visual-studio-code.svg" style="padding-right:2rem;" alt="vscode"/>
+</a>
 <br> <br><br>
 
   <!-- color pallete -->
@@ -105,19 +97,14 @@
 ### 🎨 Color pallete
 
 <br>
-  <img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=4c545d" style="border-radius: .5rem;" alt="#4c545d"/>
-  <p>#4c545d</p>
-<img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=9fabb2" style="border-radius: .5rem;" alt="#9fabb2"/>
-<p>#9fabb2</p>
-<img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=1e9483" style="border-radius: .5rem;" alt="#1e9483"/>
-<p>#1e9483</p>
-<img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=4d5ccc" style="border-radius: .5rem;" alt="#4d5ccc"/>
-<p>#4d5ccc</p>
-<img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=26baa4" style="border-radius: .5rem;" alt="#26baa4"/>
-<p>#26baa4</p>
-<img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=6173ff" style="border-radius: .5rem;" alt="#6173ff"/>
-<p>#6173ff</p>
 
+| **hex** |                                    **color**                                    |
+|:-------:|:-------------------------------------------------------------------------------:|
+| #6173ff | ![#6173ff](https://icongr.am/entypo/controller-record.svg?size=50&color=6173ff) |
+| #4c545d | ![#6173ff](https://icongr.am/entypo/controller-record.svg?size=50&color=4c545d) |
+| #9fabb2 | ![#6173ff](https://icongr.am/entypo/controller-record.svg?size=50&color=9fabb2) |
+| #1e9483 | ![#6173ff](https://icongr.am/entypo/controller-record.svg?size=50&color=1e9483) |
+| #4d5ccc | ![#6173ff](https://icongr.am/entypo/controller-record.svg?size=50&color=4d5ccc) |
 
 <br>
 
