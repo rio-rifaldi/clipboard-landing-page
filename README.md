@@ -64,72 +64,119 @@
 <!-- language and tools -->
 ### 🧰 Language and tools
 <br>
-  <div style="display: flex; gap: 2rem; justify-content:center; flex-wrap:wrap ">
-    <div style="display:grid; place-items:center; gap:.4rem ">
+ 
+   <foreignObject width="80%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          flex-wrap: wrap;
+          width: 100%;
+          height: 300px;
+          background-color: transparent;
+          color: white;
+          place-items:center;
+          place-content:center;
+          gap:2rem;
+        }
+        #wrapper{
+          display: grid;
+          gap:.6rem;
+          place-content: center;
+          place-items: center;
+        }
+      </style>
+      <div class="container">
+    <div id="wrapper">
         <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="border-radius: .5rem;" alt="javascript"/>
         <p style="text-transform:capitalize">Javascript</p>
    </div>
-    <div style="display:grid; place-items:center; gap:.4rem ">
+    <div id="wrapper">
         <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="border-radius: .5rem;" alt="css"/>
         <p style="text-transform:capitalize">css</p>
    </div>
-    <div style="display:grid; place-items:center; gap:.4rem ">
+    <div id="wrapper">
         <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="border-radius: .5rem;" alt="html"/>
         <p style="text-transform:capitalize">html</p>
    </div>
-    <div style="display:grid; place-items:center; gap:.4rem ">
+    <div id="wrapper">
         <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="border-radius: .5rem;" alt="tailwindcss"/>
         <p style="text-transform:capitalize">tailwindcss</p>
    </div>
-    <div style="display:grid; place-items:center; gap:.4rem ">
+    <div id="wrapper">
         <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" style="border-radius: .5rem;" alt="vitejs"/>
         <p style="text-transform:capitalize">vitejs</p>
    </div>
-   <div style="display:grid; place-items:center; gap:.4rem ">
+   <div id="wrapper">
         <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" style="border-radius: .5rem;" alt="netlify"/>
         <p style="text-transform:capitalize">netlify</p>
    </div>
-   <div style="display:grid; place-items:center; gap:.4rem ">
+   <div id="wrapper">
         <img width="40px" src="https://www.cdnlogo.com/logos/g/31/gsap-greensock.svg" style="border-radius: .5rem;" alt="gsap"/>
         <p style="text-transform:capitalize">gsap</p>
    </div>
-   <div style="display:grid; place-items:center; gap:.4rem ">
+   <div id="wrapper">
         <img width="40px" src="https://www.cdnlogo.com/logos/v/82/visual-studio-code.svg" style="border-radius: .5rem;" alt="vscode"/>
         <p style="text-transform:capitalize">vscode</p>
    </div>
- </div>
+      </div>
+    </div>
+  </foreignObject>
 
     
   <!-- color pallete -->
 ### 🎨 Color pallete
 <br>
- <div style="display: flex; gap: 2rem; justify-content:center; flex-wrap:wrap ">
-    <div style="display:grid; place-items:center; gap:.4rem ">
+  <foreignObject width="80%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          flex-wrap: wrap;
+          width: 100%;
+          height: 300px;
+          background-color: transparent;
+          color: white;
+          place-items:center;
+          place-content:center;
+          gap:2rem;
+        }
+        #wrapper{
+          display: grid;
+          gap:.6rem;
+          place-content: center;
+          place-items: center;
+        }
+      </style>
+      <div class="container">
+    <div id="wrapper">
         <img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=4c545d" style="border-radius: .5rem;" alt="#4c545d"/>
         <p style="text-transform:capitalize">#4c545d</p>
    </div>
-    <div style="display:grid; place-items:center; gap:.4rem ">
+    <div id="wrapper">
         <img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=9fabb2" style="border-radius: .5rem;" alt="#9fabb2"/>
         <p style="text-transform:capitalize">#9fabb2</p>
    </div>
-    <div style="display:grid; place-items:center; gap:.4rem ">
+    <div id="wrapper">
         <img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=1e9483" style="border-radius: .5rem;" alt="#1e9483"/>
         <p style="text-transform:capitalize">#1e9483</p>
    </div>
-    <div style="display:grid; place-items:center; gap:.4rem ">
+    <div id="wrapper">
         <img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=4d5ccc" style="border-radius: .5rem;" alt="#4d5ccc"/>
         <p style="text-transform:capitalize">#4d5ccc</p>
    </div>
-    <div style="display:grid; place-items:center; gap:.4rem ">
+    <div id="wrapper">
         <img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=26baa4" style="border-radius: .5rem;" alt="#26baa4"/>
         <p style="text-transform:capitalize">#26baa4</p>
    </div>
-    <div style="display:grid; place-items:center; gap:.4rem ">
+    <div id="wrapper">
         <img  src="https://icongr.am/entypo/controller-record.svg?size=50&color=6173ff" style="border-radius: .5rem;" alt="#6173ff"/>
         <p style="text-transform:capitalize">#6173ff</p>
    </div>
+      </div>
+    </div>
+  </foreignObject>
 
- </div>
  <br>
 
 # 📌 Getting Started
@@ -160,5 +207,3 @@ Start the server
 ```bash
   pnpm run dev
 ```
-
-<br><br>
