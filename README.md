@@ -1,12 +1,12 @@
 <div align="center">
 
-  <img src="https://cdnlogo.com/logos/f/56/frontendmentor.svg" alt="logo" width="200" height="auto" style="background-color : white; padding : 0 2.5rem; border-radius: 1rem " />
+  <img src="https://i.ibb.co.com/ftz6mt5/frontedmentor-logo.png" alt="logo" width="250" height="auto" />
   <h1 style="margin: 2rem 0 ">Frontend Mentor Challenges</h1>
   
   <p >
     Solution For Frontend Mentor Challenges
   </p>
-  
+
   
 <!-- Badges -->
 <p >
