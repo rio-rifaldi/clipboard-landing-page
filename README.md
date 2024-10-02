@@ -45,10 +45,16 @@
 
 <!-- About the Project -->
 # 📌 About the Project
+Hi everyone👋
+i'm going to show you my solution for [frontendmentor challenges](https://www.frontendmentor.io/challenges). Frontendmentor.io is amazing website to test your frontend skill by creating several project. Please check up my another solution and frontendmentor profile below👇
 
+### 👨‍💻 frontendmentor profile : [rio-rifaldi profile](https://www.frontendmentor.io/profile/rio-rifaldi)
+### ✅ list of frontendmentor solution  : [rio-rifaldi solutions](https://github.com/stars/rio-rifaldi/lists/frontendmentor-projects)
+
+<br>
 
 <!-- Screenshots -->
-### 📸 responsive deisgn
+## 📸 responsive deisgn
 
 <div align="center"> 
   <img src="./images/showcase/responsive-design.png" alt="screenshot" />
@@ -56,13 +62,13 @@
 
 <!-- motion -->
 
-### 👁️ preview
+## 👁️ preview
 <div align="center"> 
   <img src="./images/showcase/preview.gif" alt="preview" width="900" height="auto"  />
 </div>
 
 <!-- language and tools -->
-### 🧰 Language and tools
+## 🧰 Language and tools
 <br><br>
 <a target="blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
    <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:2rem;text" alt="javascript"/>
@@ -94,7 +100,7 @@
 
 
 
-### 🎨 Color pallete
+## 🎨 Color pallete
 
 <br>
 
@@ -111,7 +117,7 @@
 # 📌 Getting Started
 
 <!-- Run Locally -->
-### Run Locally
+## Run Locally
 
 Clone the project
 
@@ -136,6 +142,8 @@ Start the server
 ```bash
   pnpm run dev
 ```
+
+<br><br>
 
 # 📌 Creator Profile
 
